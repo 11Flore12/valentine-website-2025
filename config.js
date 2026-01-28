@@ -57,7 +57,7 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#D25353",      // Gradient start (try pastel colors for a soft look)
+        backgroundStart: "#EA7B7B",      // Gradient start (try pastel colors for a soft look)
         backgroundEnd: "#9E3B3B",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
         buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
